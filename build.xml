@@ -1,6 +1,6 @@
 <project name="AntBuildProject" default="deploy" basedir=".">
    <target name="init">
-      <property name="sourceDir" value="src"/ >
+      <property name="sourceDir" value="src" />
       <property name="outputDir" value="classes" />
       <property name="deployJSP" value="/web/deploy/jsp" />
       <property name="deployProperties" value="/web/deploy/conf" />
